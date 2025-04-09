@@ -1,0 +1,28 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-component",
+      "2": "I-component",
+      "3": "L-component",
+      "4": "U-component",
+      "5": "B-symptom",
+      "6": "I-symptom",
+      "7": "L-symptom",
+      "8": "U-symptom",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-component": 1,
+      "I-component": 2,
+      "L-component": 3,
+      "U-component": 4,
+      "B-symptom": 5,
+      "I-symptom": 6,
+      "L-symptom": 7,
+      "U-symptom": 8,
+      "O": 0
+    },
+    "num_tags": 9
+  }
+]
